@@ -16,3 +16,9 @@
 ## Data Science
 * https://dvc.org/
 * https://evidentlyai.com/
+
+
+## Blogs
+* https://discourse.getdbt.com/t/state-of-testing-in-dbt/1778
+* https://www.getdbt.com/analytics-engineering/modular-data-modeling-technique/
+
